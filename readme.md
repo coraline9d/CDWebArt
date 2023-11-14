@@ -2,9 +2,7 @@
 
 ## Qui suis-je ?
 
-Ready to go est une agence de voyage réputée à l'international.
-
-Je suis Coraline Day, je suis passionnée d'informatique basé à Amiens. 
+Je suis Coraline Day, je suis passionnée d'informatique basé à Amiens.
 
 Ce portfolio a été créé pour présenter mes compétences, projets et expériences professionnelles.
 
