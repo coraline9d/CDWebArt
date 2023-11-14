@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
-Je suis Coraline Day, je suis passionnée d'informatique basé à Amiens.
+Je m'appelle Coraline Day et je suis basée à Amiens.
 
 Ce portfolio a été créé pour présenter mes compétences, projets et expériences professionnelles.
 
